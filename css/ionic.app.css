@@ -9483,7 +9483,7 @@ ion-side-menu ion-item.item:last-child{ border-bottom: 1px #33383e solid !import
 .tabnav .col a.active, .tabnav .nbtn.active{color:#ec7935; background:#fff; box-shadow:0 2px 0 #ec7935; font-weight:bold;}
 .joinfooter .tab-item i{color:#ec7935;}
 .card-viewbtn{background:#ec7935; }
-
+.cbtn i {color:#ec7935;}
 /* end of  change theme color*/
 
 
